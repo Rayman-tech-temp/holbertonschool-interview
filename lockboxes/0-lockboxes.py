@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env/python3
+
 """
 optimisation is needed to be considered
 and readability changes to be reviewed
